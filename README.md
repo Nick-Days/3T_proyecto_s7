@@ -56,4 +56,4 @@ Esta aplicación permite a los usuarios analizar un conjunto de datos de vehícu
 
 ## URL de la aplicación
 
-🔗 [Enlace a la aplicación desplegada](#) *(pendiente de despliegue)*
+🔗 [https://threet-proyecto-s7.onrender.com](#)
